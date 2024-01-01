@@ -1,0 +1,7 @@
+argparse
+gudhi
+h5py
+numpy
+requests
+scikit-learn
+tqdm
