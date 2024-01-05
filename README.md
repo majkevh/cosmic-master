@@ -10,7 +10,7 @@ The figures below illustrate various aspects of the cosmic structures analyzed i
 
 #### Discretized Persistence Diagrams
 ![Discretized Persistence Diagrams](images/H1DPD.png)
-*Discretized persistence diagrams of* $H_1$ *homology groups at four different redshift values, illustrating the evolution of topological features.*
+*Discretized persistence diagrams of H1 homology groups at four different redshift values, illustrating the evolution of topological features.*
 
 #### Log-Persistence Energy Magnitude
 ![Log-Persistence Energy Magnitude](images/gabor.png)
