@@ -3,18 +3,18 @@
 **Author**: Michael Etienne Van Huffel
 
 ## Description
-This repository hosts the official implementation of the algorithms and analysis techniques featured in the paper [*Hierarchical Clustering in ΛCDM Cosmologies via Persistence Energy*](ADDLINK). It includes processing scripts for analyzing cosmic structure formation through topological data analysis, focusing on persistence homology.
+This repository hosts the official implementation of the algorithms and analysis techniques featured in the paper [*Hierarchical Clustering in ΛCDM Cosmologies via Persistence Energy*](https://arxiv.org/abs/2401.01988). It includes processing scripts for analyzing cosmic structure formation through topological data analysis and the persistence homology pipeline up to the construction of persistence diagrams.
 
 ### Visualizations
 The figures below illustrate various aspects of the cosmic structures analyzed in our study, ranging from galaxy distributions to the quantification of their persistence features.
 
 #### Discretized Persistence Diagrams
 ![Discretized Persistence Diagrams](images/H1DPD.png)
-*Discretized persistence diagrams of $H_1$ homology groups at four different redshift values, illustrating the evolution of topological features.*
+*Discretized persistence diagrams of* $H_1$ *homology groups at four different redshift values, illustrating the evolution of topological features.*
 
 #### Log-Persistence Energy Magnitude
 ![Log-Persistence Energy Magnitude](images/gabor.png)
-*Log energy magnitude values of the Persistent Signals vectorization method across redshift from \(z=5\) to \(z=0\), highlighting the evolution of persistence energy for Gabor functional at scale = 80 in different homology dimensions and hyperparameter settings.*
+*Log energy magnitude values of the Persistent Signals vectorization method across redshift from z=5 to z=0, highlighting the evolution of persistence energy for Gabor functional at scale = 80 in different homology dimensions and hyperparameter settings.*
 
 ## Delaunay Tessellation Field Estimator
 The Delaunay Tessellation Field Estimator (DTFE) method used to compute the tessellation is taken from the official C++ implementation available [here](https://github.com/MariusCautun/DTFE).
