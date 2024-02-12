@@ -44,4 +44,4 @@ The data employed in our analysis is sourced from the [IllustrisTNG](https://www
 The contents of this project are made available under the terms of the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
-We extend our gratitude to the IllustrisTNG project for the simulation datasets that underpin our analysis.
+I extend my gratitude to the IllustrisTNG project for the simulation datasets that underpin our analysis.
