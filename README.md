@@ -3,7 +3,7 @@
 **Author**: Michael Etienne Van Huffel
 
 ## Description
-This repository hosts the official implementation of the algorithms and analysis techniques featured in the paper [*Hierarchical Clustering in ΛCDM Cosmologies via Persistence Energy*](https://arxiv.org/abs/2401.01988). It includes processing scripts for analyzing cosmic structure formation through topological data analysis and the persistence homology pipeline up to the construction of persistence diagrams.
+This repository hosts the official implementation of the algorithms and analysis techniques featured in the semester project [*Hierarchical Clustering in ΛCDM Cosmologies via Persistence Energy*](https://arxiv.org/abs/2401.01988). It includes processing scripts for analyzing cosmic structure formation through topological data analysis and the persistence homology pipeline up to the construction of persistence diagrams.
 
 ### Visualizations
 The figures below illustrate various aspects of the cosmic structures analyzed in our study, ranging from galaxy distributions to the quantification of their persistence features.
